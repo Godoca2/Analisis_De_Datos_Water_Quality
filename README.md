@@ -3,7 +3,7 @@
 El agua es esencial para la vida. Todas las plantas y animales dependen de ella para sobrevivir, y no podría haber vida en la Tierra sin este recurso vital. ¿Pero por qué es tan importante? Alrededor del 60% del cuerpo humano está compuesto de agua, y nuestro organismo la utiliza en cada célula, órgano y tejido para regular la temperatura corporal y mantener otras funciones esenciales. Dado que perdemos agua constantemente al respirar, sudar y digerir, es fundamental mantenernos hidratados bebiendo líquidos y consumiendo alimentos que la contengan.
 
 
- ![Calidad_del_Agua]([Image/Water_Potability.jpg](https://github.com/Godoca2/Analisis_De_Datos_Water_Quality/blob/main/image/Water_Potability.jpg))
+ ![Calidad_del_Agua](image/Water_Potability.jpg)
 
 ## ¿Cómo influye el agua en nuestras vidas?
 
